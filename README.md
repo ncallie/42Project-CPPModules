@@ -1,4 +1,5 @@
 # 42Project-CPPModules
+The CPP modules are 8 days of "piscine" to teach us basic-to-intermediate concepts in C++ with increasingly difficult exercises.
 <ul>
   <li><a href="https://github.com/ncallie/42Project-CPPModule-00">CPP Module 00</a><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2529287" width="80"/> </li>
   <li><a href="https://github.com/ncallie/42Project-CPPModule-01">CPP Module 01</a><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2549365" width="80"/> </li>
